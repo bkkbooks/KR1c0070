@@ -17,18 +17,18 @@ metadata:
     short: CHANT
 assets:
   parts:
-  - {seq: 1, filename: KR1c0070_001-CHANT.yaml, hash: 'sha256:cad19cf160e4407d8e1a57ede425349c3193626583f84482f8df5b44d7354441'}
+  - {seq: 1, filename: KR1c0070_001-CHANT.yaml, hash: 'sha256:7b7c9dc1b9c93e540ad18b8e320e0617e041f5c53a4527e2198ad015581580ea'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1c0070_001-CHANT.markers.yaml, hash: 'sha256:659fc900e9084775206a933473de01797953607c4150330871ef5bd1d83af0f5'}
+  - {seq: 1, role: markers, filename: assets/KR1c0070_001-CHANT.markers.yaml, hash: 'sha256:9d8415925dceccad09f04226f50ec9a90d9cdff9ba7177d0a356d7a7ca97e2ca'}
 table_of_contents:
 - ref:
     seq: 1
     marker_id: KR1c0070_CHANT_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 644
   label: 毛詩序義
   type: section
   level: 1
-hash: sha256:d33d342e86faf354edeccdc03ac1e751fb06ff7576bd0cfcc9281affd25a2819
+hash: sha256:cbac0a69db7eefa568e2ed836797b42f5255653a41d76bdd80d14430e256669a
